@@ -1,4 +1,4 @@
---handles animation updates and frame rendering for animated emotes
+--handles updates and frame rendering for animated emotes
 --load after Emotes.lua
 
 local SolarisAnimator = {}
