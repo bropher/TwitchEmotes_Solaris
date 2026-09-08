@@ -1,4 +1,4 @@
---handles animation updates and frame rendering for Solaris animated emotes
+--handles animation updates and frame rendering for animated emotes
 --load after Emotes.lua
 
 local SolarisAnimator = {}
@@ -90,7 +90,7 @@ if stockBuildEmoteFrameString then
             return BuildSolarisFrameString(
                 imagePath,
                 animData,
-                frameNumber,
+                0,
                 animData.frameHeight,
                 animData.frameWidth
             )
@@ -116,7 +116,7 @@ if stockBuildEmoteFrameStringWithDimensions then
             return BuildSolarisFrameString(
                 imagePath,
                 animData,
-                frameNumber,
+                0,
                 displayHeight,
                 displayWidth
             )
@@ -230,7 +230,7 @@ function SolarisAnimator:Initialize()
     )
 end
 
---register metadata immediately so that emotes are rendered at the beginning of the loop (frame 0)
+--register animation metadata with TwitchEmotes
 SolarisAnimator:RegisterMetadata()
 
 local loader = CreateFrame("Frame")

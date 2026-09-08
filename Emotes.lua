@@ -8,9 +8,9 @@ TwitchEmotes_Solaris_Emoticons = {
     ["blobby"] = "blobby",
     ["blusherBucket"] = "blusherBucket",
     ["BlushPJ"] = "BlushPJ",
+    [":clueless:"] = "CLUELESS",
     ["BruhScuff"] = "BruhScuff",
     ["catDisgust"] = "catDisgust",
-    [":clueless:"] = "CLUELESS",
     ["Chadge"] = "Chadge",
     ["CLUELESS"] = "CLUELESS",
     ["comfyBlushSip"] = "comfyBlushSip",
@@ -66,7 +66,6 @@ TwitchEmotes_Solaris_Emoticons = {
     ["peggers"] = "peggers",
     ["pepeComfy"] = "pepeComfy",
     ["pepeDepressed"] = "pepeDepressed",
-    ["pepeEmu"] = "pepeEmu",
     ["pepeGIGA"] = "pepeGIGA",
     ["pepeGrump"] = "pepeGrump",
     ["pepeJudge"] = "pepeJudge",
@@ -99,7 +98,6 @@ TwitchEmotes_Solaris_Emoticons = {
     ["thinkiong"] = "thinkiong",
     ["THYMINDE"] = "THYMINDE",
     ["Tomfoolery"] = "Tomfoolery",
-    ["typingHappy"] = "typingHappy",
     ["unc"] = "unc",
     ["wahoo"] = "wahoo",
     ["whatvr"] = "whatvr",
@@ -130,7 +128,6 @@ TwitchEmotes_Solaris_Emoticons = {
     ["chickenWalk"] = "chickenWalk",
     ["CLEAN"] = "CLEAN",
     ["dentgeWave"] = "dentgeWave",
-    ["diceroll"] = "diceroll",
     ["DIESOFCRINGE"] = "DIESOFCRINGE",
     ["DinkDonk"] = "DinkDonk",
     ["DODGE"] = "DODGE",
@@ -190,8 +187,8 @@ TwitchEmotes_Solaris_Emoticons = {
     ["ZZoomer"] = "ZZoomer",
     -- Animated Wide Emotes
     ["badvibes"] = "badvibes",
+    ["diceroll"] = "diceroll",
     ["Salieri"] = "Salieri",
-    ["wideJigglin"] = "wideJigglin",
     -- Animated Large Emotes
     -- Alternatives
     ["FUCKKINTARK"] = "comfyBlushSip",
@@ -200,6 +197,8 @@ TwitchEmotes_Solaris_Emoticons = {
     ["maaan"] = "MAAAN",
     ["MAAN"] = "MAAAN",
     ["NYOO"] = "nyoo",
+    ["pepeEmu"] = "peepoEmu",
+    ["typingHappy"] = "peepoChatting",
 }
 
 TwitchEmotes_Solaris_Emoticons_Pack = {
@@ -269,7 +268,6 @@ TwitchEmotes_Solaris_Emoticons_Pack = {
     ["peggers"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\peggers.tga:28:28",
     ["pepeComfy"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\pepeComfy.tga:28:28",
     ["pepeDepressed"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\pepeDepressed.tga:28:28",
-    ["pepeEmu"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\pepeEmu.tga:28:28",
     ["pepeGIGA"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\pepeGIGA.tga:28:28",
     ["pepeGrump"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\pepeGrump.tga:28:28",
     ["pepeJudge"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\pepeJudge.tga:28:28",
@@ -281,7 +279,6 @@ TwitchEmotes_Solaris_Emoticons_Pack = {
     ["Poggers"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\Poggers.tga:28:28",
     ["POGGI"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\POGGI.tga:28:28",
     ["PolarBear"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\PolarBear.tga:28:28",
-    ["poshe"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\emotes\\poshe.tga:28:28",
     ["poshge"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\poshge.tga:28:28",
     ["prayge"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\prayge.tga:28:28",
     ["princesssukie"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\princesssukie.tga:28:28",
@@ -303,7 +300,6 @@ TwitchEmotes_Solaris_Emoticons_Pack = {
     ["thinkiong"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\thinkiong.tga:28:28",
     ["THYMINDE"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\THYMINDE.tga:28:28",
     ["Tomfoolery"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\Tomfoolery.tga:28:28",
-    ["typingHappy"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\typingHappy.tga:28:28",
     ["unc"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\unc.tga:28:28",
     ["wahoo"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\wahoo.tga:28:28",
     ["whatvr"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\whatvr.tga:28:28",
@@ -334,7 +330,6 @@ TwitchEmotes_Solaris_Emoticons_Pack = {
     ["chickenWalk"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\chickenWalk.tga:28:28",
     ["CLEAN"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\CLEAN.tga:28:28",
     ["dentgeWave"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\dentgeWave.tga:28:28",
-    ["diceroll"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\diceroll.tga:28:28",
     ["DIESOFCRINGE"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\DIESOFCRINGE.tga:28:28",
     ["DinkDonk"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\DinkDonk.tga:28:28",
     ["DODGE"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\DODGE.tga:28:28",
@@ -394,8 +389,8 @@ TwitchEmotes_Solaris_Emoticons_Pack = {
     ["ZZoomer"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\ZZoomer.tga:28:28",
     -- Animated Wide Emotes
     ["badvibes"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\wide\\badvibes.tga:28:128",
+    ["diceroll"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\wide\\diceroll.tga:28:128",
     ["Salieri"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\wide\\Salieri.tga:28:128",
-    ["wideJigglin"] = "Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\wide\\wideJigglin.tga:28:128",
     -- Animated Large Emotes
 }
 
@@ -433,12 +428,12 @@ TwitchEmotes_Solaris_Animation_Metadata = {
         ["framerate"] = 11.11,
     },
     ["Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\wide\\badvibes.tga"] = {
-        ["nFrames"] = 32,
+        ["nFrames"] = 64,
         ["frameWidth"] = 128,
         ["frameHeight"] = 32,
         ["imageWidth"] = 128,
-        ["imageHeight"] = 1024,
-        ["framerate"] = 5.39,
+        ["imageHeight"] = 2048,
+        ["framerate"] = 12.0,
     },
     ["Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\batJAM.tga"] = {
         ["nFrames"] = 32,
@@ -520,11 +515,11 @@ TwitchEmotes_Solaris_Animation_Metadata = {
         ["imageHeight"] = 256,
         ["framerate"] = 10.0,
     },
-    ["Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\diceroll.tga"] = {
+    ["Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\wide\\diceroll.tga"] = {
         ["nFrames"] = 64,
-        ["frameWidth"] = 32,
+        ["frameWidth"] = 128,
         ["frameHeight"] = 32,
-        ["imageWidth"] = 32,
+        ["imageWidth"] = 128,
         ["imageHeight"] = 2048,
         ["framerate"] = 35.16,
     },
@@ -959,14 +954,6 @@ TwitchEmotes_Solaris_Animation_Metadata = {
         ["imageWidth"] = 32,
         ["imageHeight"] = 1024,
         ["framerate"] = 11.64,
-    },
-    ["Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\wide\\wideJigglin.tga"] = {
-        ["nFrames"] = 32,
-        ["frameWidth"] = 128,
-        ["frameHeight"] = 32,
-        ["imageWidth"] = 128,
-        ["imageHeight"] = 1024,
-        ["framerate"] = 15.53,
     },
     ["Interface\\AddOns\\TwitchEmotes_Solaris\\Emotes\\animated\\yap.tga"] = {
         ["nFrames"] = 32,
