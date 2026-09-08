@@ -1,4 +1,4 @@
-## Interface: 120005
+## Interface: 120100
 ## Title: TwitchEmotes_Solaris
 ## Author: Putro
 ## Version: 1.10.0
